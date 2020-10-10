@@ -1,5 +1,7 @@
 # Frontend Mentor - FAQ Accordion Card
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5ad2b465-8332-4931-b136-0514c17815bd/deploy-status)](https://app.netlify.com/sites/faq-accordion-card/deploys)
+
 ![Design preview for the FAQ Accordion Card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
