@@ -40,6 +40,10 @@
 		text-align: center;
 		color: $very-dark-blue;
 
+		@include breakpoint-up(medium) {
+			text-align: left;
+		}
+
 		font-size: 2rem;
 		padding-bottom: 2rem;
 	}
